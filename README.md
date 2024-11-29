@@ -11,7 +11,7 @@ This repository provides a ready-to-use and adaptable implementation that has be
 ## ✨ Features
 
 ### 🔍 Data Analysis
-- **Exploratory Data Analysis (EDA)**: Visualize trends, seasonality, and test for stationarity using the Augmented Dickey-Fuller (ADF) test.
+- **Exploratory Data Analysis (EDA)**: Visualize trends, seasonality, exponentially smooth the series to uncover patterns, and test for stationarity using the Augmented Dickey-Fuller (ADF) test.
 - **Autocorrelation Analysis**: Use Auto-Correlation Function (ACF) and Partial Auto-Correlation Function (PACF) plots to identify model parameters.
 
 ### 🛠️ Model Building
