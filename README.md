@@ -2,7 +2,7 @@
 
 ## 📚 Overview
 
-This project leverages statistical and machine learning techniques to forecast stock prices using ARIMA models. Apple's stock data (ticker: `AAPL`) is used as a case study, fetched from Yahoo Finance. The pipeline incorporates data preprocessing, model selection, evaluation, and visualization to deliver robust and reliable forecasts.
+This project leverages statistical to forecast stock prices using ARIMA models. Apple's stock data (ticker: `AAPL`) is used as a case study, fetched from Yahoo Finance. The pipeline incorporates data preprocessing, model selection, evaluation, and visualization to deliver robust and reliable forecasts.
 
 This repository provides a ready-to-use and adaptable implementation that has been tested for accuracy and compliance with statistical modeling best practices. Its modular structure ensures that it can be easily extended or modified for other time series datasets and use cases.
 
